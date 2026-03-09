@@ -2,7 +2,7 @@
 I like programming I think. I also like playing video. I think I'm just a chill guy (I think)
 
 ## Programming languages (from most- to least-used)
-[![My Skills](https://skillicons.dev/icons?i=cs,c,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,c,php,html,css,js)](https://skillicons.dev)
 
 ## Current goals
 - Deepen into low-level coding (languages like C)
